@@ -5,3 +5,4 @@ Feature da Vanea
 Estou aprendendo Git 
 
 Alteração para conflito (Vanea)
+ALTERAÇÃO PARA CONFLITO - LINHA DIEGO
